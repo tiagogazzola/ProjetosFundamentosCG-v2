@@ -123,8 +123,8 @@
     <ClInclude Include="..\..\Common\include\Shader.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\HelloTriangle - Shaders\shaders\HelloTriangle.fs" />
-    <None Include="..\..\HelloTriangle - Shaders\shaders\HelloTriangle.vs" />
+    <None Include="..\shaders\HelloTriangle.fs" />
+    <None Include="..\shaders\HelloTriangle.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -34,10 +34,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\HelloTriangle - Shaders\shaders\HelloTriangle.fs">
+    <None Include="..\shaders\HelloTriangle.fs">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="..\..\HelloTriangle - Shaders\shaders\HelloTriangle.vs">
+    <None Include="..\shaders\HelloTriangle.vs">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
